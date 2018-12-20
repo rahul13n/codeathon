@@ -1,5 +1,5 @@
-[![Coverage Status](https://coveralls.io/repos/github/anuragmaher/temp/badge.svg?branch=master)](https://coveralls.io/github/anuragmaher/temp?branch=master)
-[![Build Status](https://travis-ci.org/anuragmaher/temp.svg?branch=master)](https://travis-ci.org/anuragmaher/temp)
+[![Coverage Status](https://coveralls.io/repos/github/rahul13n/codeathon/badge.svg?branch=master)](https://coveralls.io/github/rahul13n/codeathon?branch=master)
+[![Build Status](https://travis-ci.org/rahul13n/codeathon.svg?branch=master)](https://travis-ci.org/rahul13n/codeathon)
 
 # Work in Progress
 
